@@ -1,0 +1,11 @@
+Heart Attack prediction: 
+https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+Climate Changes: 
+https://www.kaggle.com/datasets/tarunrm09/climate-change-indicators
+
+Breast Cancer Prediction: 
+https://www.kaggle.com/datasets/adhamelkomy/breast-cancer
+
+Loan Status Approval: 
+https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
