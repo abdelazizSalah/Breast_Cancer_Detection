@@ -6,7 +6,9 @@
    2. Cleansing
    3. Aggregation
    4. Labeling
-   5. Transformation
+   5. Transformation -> transform the categorical data into numerical data if needed
+   6. Feature engineering -> create new features from the existing data
+   7. Feature Scaling
 4. Determine the model's features and train the model.
    1. Model technique selection
    2. Training
