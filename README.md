@@ -5,7 +5,9 @@
 > Dataset link: https://www.kaggle.com/datasets/adhamelkomy/breast-cancer
 
 > You can find a complete analysis in the projectReport.pdf
+
 > and the 9 models are implemented in the notebook.
+
 > I have found that the best model which fits the data with 98.2% is the SVC with a polynomial kernel of degree 2.
 
 
